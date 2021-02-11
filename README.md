@@ -1,16 +1,22 @@
 # climate_app
 
-A new Flutter application.
+This repository contains ClimateApp tutorial from London Appbrewery Section 13.
 
-## Getting Started
+#### London App Brewery Site: https://www.appbrewery.co/
+#### Github Page: https://github.com/londonappbrewery/Flutter-Course-Resources
 
-This project is a starting point for a Flutter application.
+In this tutorial following is learnt:
+- Async and Await, Future
+- Fetching Network Content via http package, with API.
+- Json formatted data decoding.
+- Geolocation in getting current location.
+- Error catching via Try and Catch.
+- Passing Variables with Navigator, backward and forward.
+- Dynamic Variable.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The layout of the application is as follow:
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/67504821/107604850-6a9c2400-6c85-11eb-9629-6f049db15576.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/67504821/107604836-65d77000-6c85-11eb-81f9-4017e23555ac.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/67504821/107604853-6bcd5100-6c85-11eb-9679-5b5895de3319.gif" width="300">
+ </p>
