@@ -1,4 +1,4 @@
-# climate_app
+# Flutter-AppBrewery-ClimateApp
 
 This repository contains ClimateApp tutorial from London Appbrewery Section 13.
 
